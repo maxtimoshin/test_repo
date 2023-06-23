@@ -80,7 +80,7 @@
         line-height: 120%;
     }
     .header-nav {
-        margin: 40px 0 0 0;
+        margin: 40px 0 40px 0;
     }
 }
 
@@ -1415,7 +1415,7 @@
         font-size: 12px;
     }
     .header-nav {
-        margin: 25px 0 0px;
+        margin: 20px 0 40px;
     }
     .conditions-main .title {
         margin: 0 0 40px 0;

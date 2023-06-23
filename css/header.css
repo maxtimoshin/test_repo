@@ -20,7 +20,7 @@
 }
 
 .header-nav {
-    margin: 40px 0 0 0;
+    margin: 40px 0 40px 0;
     width: 100%;
     max-width: 1400px;
     display: -webkit-box;
@@ -317,7 +317,7 @@
     align-items: center;
     position: relative;
     overflow: hidden;
-    padding-top:60px;
+    /* padding-top:60px; */
 }
 
 .header-content-blur {
